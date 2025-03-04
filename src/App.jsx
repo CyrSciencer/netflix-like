@@ -3,7 +3,7 @@ import './App.css'
 
 const App =()=>{ 
 return(<section className="body-box">
-<header><div><img src="src/img/1422727-logo-netflix.png" alt="not found" /></div></header>
+<header><div><img src="./img/1422727-logo-netflix.png" alt="not found" /></div></header>
 <main>
     <Category/>
 </main>
