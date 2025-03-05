@@ -1,6 +1,6 @@
 import Category from "./components/Category"
 import './App.css'
-import logo from "./img/logo-netflix.png"
+import logo from "./img/logo-netflix.webp"
 
 const App =()=>{ 
 return(<section className="body-box">
